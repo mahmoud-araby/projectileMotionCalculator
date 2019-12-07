@@ -1,0 +1,3 @@
+-IE:\examples\Lists\Lists\projectileMotionCalculator
+-target
+i686-pc-windows-gnu
